@@ -28,10 +28,11 @@ URI　：　https://github.com/IotaTech-Info/IotaJava_G2.git
 ![image](https://user-images.githubusercontent.com/100652381/158002611-ab9fde2b-ad13-4414-b491-79cd97b5fc09.png)
 
 ６、ディレクトリにEclipseのワークスペースを指定して、次へを押下する
+※　ワークスペース　＋　プロジェクト名称
 
 ![image](https://user-images.githubusercontent.com/100652381/158002631-13a30657-253f-4291-a1ab-27a6214972ba.png)
 
-７、新規プロジェクトを選択して、次へ
+７、新規プロジェクトを選択して、完了
 
 ![image](https://user-images.githubusercontent.com/100652381/158002667-121c688b-c82d-4717-bc11-8d7d7bea9042.png)
 
